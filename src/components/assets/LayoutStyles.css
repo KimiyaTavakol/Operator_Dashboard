@@ -1,0 +1,23 @@
+.main-row{
+    margin-left: 1rem;
+}
+.left-panel{
+    background-color: cornsilk;
+    border-radius: 15px;
+    border: 2px;
+    padding-top: 2rem;
+    margin-top: 2rem;
+}
+.left-panel-title{
+    text-align: center;
+}
+
+.table-text{
+    text-align: right;
+}
+.table-Op-text{
+    text-align: center;
+}
+.canvas-size{
+    position: relative;
+}
