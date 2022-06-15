@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/operator_dashboard/static/css/main.12102d55.css",
+    "main.js": "/operator_dashboard/static/js/main.a7934531.js",
+    "static/media/boxicons.svg": "/operator_dashboard/static/media/boxicons.0153fb5e5b5f697b4bcc.svg",
+    "static/media/boxicons.eot": "/operator_dashboard/static/media/boxicons.21f7c5dd64d88e1fc666.eot",
+    "static/media/boxicons.woff": "/operator_dashboard/static/media/boxicons.02aa967c5bfb9489501a.woff",
+    "static/media/boxicons.ttf": "/operator_dashboard/static/media/boxicons.ad0ddae357213656b3e6.ttf",
+    "static/media/MyIrancell.svg": "/operator_dashboard/static/media/MyIrancell.1485e3776d800d0a9ed8297e93945277.svg",
+    "static/media/boxicons.woff2": "/operator_dashboard/static/media/boxicons.0335b427967c56248ea6.woff2",
+    "index.html": "/operator_dashboard/index.html",
+    "main.12102d55.css.map": "/operator_dashboard/static/css/main.12102d55.css.map",
+    "main.a7934531.js.map": "/operator_dashboard/static/js/main.a7934531.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12102d55.css",
+    "static/js/main.a7934531.js"
+  ]
+}
