@@ -37,21 +37,23 @@ class AppLayout extends Component{
         <Header 
         click={this.toggleClick} />
         <SideMenu />
-        <div className="row main-row">
-            <div className="col-md-8">
-                <div className="row">
-                    <div className="col-md-12" >
-                        <div className="chart-container canvas-size">
-                            <UsingChart />
+        <div className="main-div">
+            <div className="row main-row">
+                <div className="col-md-8">
+                    <div className="row">
+                        <div className="col-md-12" >
+                            <div className="chart-container canvas-size">
+                                <UsingChart />
+                            </div>
+                        </div>
+                        <div className="col-md-12">
+                            <hr />
+                            <SuggestionPanel/>
                         </div>
                     </div>
-                    <div className="col-md-12">
-                        <hr />
-                        <SuggestionPanel/>
-                    </div>
                 </div>
+                <LeftPanel/>
             </div>
-            <LeftPanel/>
         </div>
     </div>;
 }};

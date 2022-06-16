@@ -1,6 +1,10 @@
 .main-row{
     margin-left: 1rem;
 }
+.main-div{
+    height: 100vh;
+    overflow-y: auto;
+}
 .left-panel{
     background-color: cornsilk;
     border-radius: 15px;

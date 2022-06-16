@@ -7,18 +7,20 @@ class Header extends Component {
     render() { 
         return (
             <header className='header' id="header">
-                <div className='header_toggle'> <i className='bx bx-menu' id="header-toggle" onClick={this.props.click}></i> </div>
+                <div className='header_toggle'>
+                     <i className='bx bx-menu' id="header-toggle" onClick={this.props.click}></i> 
+                </div>
                 
-                <div  style={{width: '15rem'}}>
+                <div className='profilePan'>
                     <div className='row'>
-                        <div className='col-md-8'>
+                        <div className='col-md-8 col-10'>
                             <span>
                                 سلام کیمیا توکل
                                 <br/>
                                 09012030405
                             </span>
                         </div>
-                        <div className='col-md-4'>
+                        <div className='col-md-4 col-2 header_img'>
                             <img src={Logo} />
                         </div>
                     </div>
