@@ -29,8 +29,8 @@ class GaugeChart extends Component {
     render() {
   
       return (
-        <div style={{width: 250, height: 250}} className="radialBar">
-          <Chart options={this.state.options} series={this.state.series} type="radialBar"/>
+        <div className="radialBar">
+          <Chart width={300} height={300} options={this.state.options} series={this.state.series} type="radialBar"/>
         </div>
       );
     }
