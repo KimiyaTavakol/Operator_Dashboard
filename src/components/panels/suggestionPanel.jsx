@@ -10,7 +10,7 @@ class SuggestionPanel extends Component {
      } 
     render() { 
         return (
-            <table class="table table-bordered table-text">
+            <table className="table table-bordered table-text">
                             <thead>
                                 <tr>
                                     <th scope="col">تاریخ انقضا</th>

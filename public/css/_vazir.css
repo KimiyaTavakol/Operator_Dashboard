@@ -1,6 +1,6 @@
 
 @font-face {
-    font-family: 'Vazir';
+    font-family: "Vazir";
     src: url('../fonts/Vazir.eot') format('eot'),
         url('../fonts/Vazir.woff') format('woff'),
         url('../fonts/Vazir.woff2') format('woff2');
@@ -9,9 +9,9 @@
 }
 
 .vazirfont {
-    font-family: Vazir !important;
+    font-family: "Vazir" !important;
 }
 
 *:not(.fas):not(.fa):not(.bx) {
-    font-family: Vazir !important;
+    font-family: "Vazir" !important;
 }
